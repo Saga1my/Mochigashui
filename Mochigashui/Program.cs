@@ -16,6 +16,7 @@ public class Tamagotchi
     alive = true;
   }
 
+
   public void food()
   {
     Console.WriteLine($" {name} eats");
