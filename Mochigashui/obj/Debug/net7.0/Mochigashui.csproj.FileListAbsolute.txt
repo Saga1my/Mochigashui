@@ -1,0 +1,14 @@
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\bin\Debug\net7.0\Mochigashui.exe
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\bin\Debug\net7.0\Mochigashui.deps.json
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\bin\Debug\net7.0\Mochigashui.runtimeconfig.json
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\bin\Debug\net7.0\Mochigashui.dll
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\bin\Debug\net7.0\Mochigashui.pdb
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.AssemblyInfoInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.AssemblyInfo.cs
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.csproj.CoreCompileInputs.cache
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.dll
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\refint\Mochigashui.dll
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.pdb
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\Mochigashui.genruntimeconfig.cache
+C:\Users\saga.palm1\Documents\Programmering\Mochigashui\Mochigashui\obj\Debug\net7.0\ref\Mochigashui.dll
